@@ -1,0 +1,152 @@
+$date
+	Wed Nov 13 18:07:41 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module module_BinBCD_tb $end
+$var wire 8 ! num2O [7:0] $end
+$var wire 8 " num1O [7:0] $end
+$var wire 1 # listo0 $end
+$var wire 1 $ error $end
+$var reg 1 % clk $end
+$var reg 1 & listo $end
+$var reg 8 ' num1 [7:0] $end
+$var reg 8 ( num2 [7:0] $end
+$var reg 1 ) rst $end
+$scope module uut $end
+$var wire 1 % clk $end
+$var wire 1 & listo $end
+$var wire 8 * num1 [7:0] $end
+$var wire 8 + num2 [7:0] $end
+$var wire 1 ) rst $end
+$var wire 4 , unidades2 [3:0] $end
+$var wire 4 - unidades1 [3:0] $end
+$var wire 8 . shift_3_1_num2 [7:0] $end
+$var wire 8 / shift_3_1_num1 [7:0] $end
+$var wire 8 0 shift_1_num2 [7:0] $end
+$var wire 8 1 shift_1_num1 [7:0] $end
+$var wire 8 2 decenas2_x10 [7:0] $end
+$var wire 8 3 decenas2_ext [7:0] $end
+$var wire 4 4 decenas2 [3:0] $end
+$var wire 8 5 decenas1_x10 [7:0] $end
+$var wire 8 6 decenas1_ext [7:0] $end
+$var wire 4 7 decenas1 [3:0] $end
+$var reg 1 $ error $end
+$var reg 1 # listo0 $end
+$var reg 8 8 num1O [7:0] $end
+$var reg 8 9 num2O [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 9
+b0 8
+b0 7
+b0 6
+b0 5
+b0 4
+b0 3
+b0 2
+b0 1
+b0 0
+b0 /
+b0 .
+b0 -
+b0 ,
+b0 +
+b0 *
+1)
+b0 (
+b0 '
+0&
+0%
+0$
+0#
+b0 "
+b0 !
+$end
+#5000
+1%
+#10000
+0%
+0)
+#15000
+1%
+#20000
+b11000 .
+b11110 2
+b110 0
+b10000 /
+b10100 5
+b100 1
+b11 3
+b11 4
+b100 ,
+b10 6
+b10 7
+b101 -
+0%
+1&
+b110100 (
+b110100 +
+b100101 '
+b100101 *
+#25000
+1#
+b100010 !
+b100010 9
+b11001 "
+b11001 8
+1%
+#30000
+0%
+0&
+#35000
+0#
+1%
+#40000
+0%
+#45000
+1%
+#50000
+0%
+#55000
+1%
+#60000
+0%
+#65000
+1%
+#70000
+0%
+#75000
+1%
+#80000
+0%
+#85000
+1%
+#90000
+0%
+#95000
+1%
+#100000
+0%
+#105000
+1%
+#110000
+0%
+#115000
+1%
+#120000
+0%
+#125000
+1%
+#130000
+0%
